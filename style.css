@@ -31,6 +31,8 @@ border-left: #5366c3 solid 5px;
 }
 a:hover {
     color: white;
+    transition: 1s;
+    transform: scale(1);
 }
 .nav1:hover {
 animation:  nav1 1s ease-in alternate 2;
