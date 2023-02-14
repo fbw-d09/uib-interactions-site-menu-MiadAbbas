@@ -1,4 +1,4 @@
-## Typography
+## Typography#dbe1e2
 
 Font: [Lobster](https://fonts.google.com/?query=lobster)  
 Base: 20px
@@ -15,4 +15,4 @@ Base: 20px
 ### Neutral
 
 - #ffffff
-- #dbe1e2
+- 
